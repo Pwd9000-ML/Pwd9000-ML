@@ -1,6 +1,8 @@
 ![Main](master.gif)
 
-### Hi there 👋
+### Hi there and welcome to my github page 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
 
 <!--
 **Pwd9000-ML/Pwd9000-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
