@@ -1,3 +1,5 @@
+![Main](master.gif)
+
 ### Hi there 👋
 
 <!--
