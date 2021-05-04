@@ -1,6 +1,8 @@
 ![Main](master.gif)
 
-### Hi there and welcome to my github page 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
+![You are visitor No:](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
+
+### Hi there and welcome to my github page 👋 
 
 ![Pwd9000-ml GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
 
