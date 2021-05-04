@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 <a target="_blank" href="https://dev.to/pwd9000">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  <img align="left" alt="Devto" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/dev-rainbow.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marcel-l-61b0a96b/">
   <img align="left" alt="Marcel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
