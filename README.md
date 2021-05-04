@@ -1,4 +1,4 @@
-![Main](master2.gif)
+![Main](master3.gif)
 
 ### Hi there 👋
 
