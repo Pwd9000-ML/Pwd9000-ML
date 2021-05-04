@@ -6,7 +6,7 @@
   <img align="left" alt="Devto" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/dev-rainbow.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marcel-l-61b0a96b/">
-  <img align="left" alt="Marcel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Marcel LinkedIN" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/linkedin.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
