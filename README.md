@@ -9,13 +9,12 @@
   <img align="left" alt="Marcel Linkedin" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/linkedin.svg" />
 </a>
 <a href="https://twitter.com/pwd9000">
-  <img align="left" alt="Marcel twitter" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/twitter.svg" />
+  <img align="left" alt="Marcel twitter" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/twitter1.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
 
-Welcome to my github page, hopefully you will find something useful here.  
-
+Welcome to my github page, hopefully you will find something useful here.
 You can also find articles and tutorials I regularly publish on [DEV](https://dev.to/pwd9000).  
 
 I am a Cloud Solutions & DevOps Architect mainly working with Microsoft technologies in the Azure cloud platform and also utilizing automation and source control tools such as Git, Azure Devops and GitHub.  
