@@ -9,7 +9,7 @@
   <img align="left" alt="Marcel Linkedin" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/linkedin.svg" />
 </a>
 <a href="https://twitter.com/pwd9000">
-  <img align="left" alt="Marcel twitter" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/twitter3.svg" />
+  <img align="left" alt="Marcel twitter" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/twitter4.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
