@@ -19,7 +19,7 @@ Welcome to my github page, hopefully you will find something useful here. You ca
 I am a Cloud Solutions & DevOps Architect mainly working with Microsoft technologies in the Azure cloud platform and also utilizing automation and source control tools such as Git, Azure Devops and GitHub.  
 I also specialize in infrastructure as code (specifically Terraform) and love writing modules which I publish on the public [Terraform Registry](https://registry.terraform.io/).  
 I also have a big passion for PowerShell and PowerShell development.  
-When it comes to cloud technology, I usually blog and go where my curiosity takes me.  
+When it comes to cloud technology, I usually blog and go where my curiosity takes me covering topics on Azure, DevOps and GitHub.  
 
 ### This github space is mainly used for
 
