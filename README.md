@@ -14,7 +14,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
 
-Welcome to my github page, hopefully you will find something useful here. You can also find articles and tutorials I regularly publish on [DEV](https://dev.to/pwd9000).  
+Welcome to my github page, hopefully you will find something useful here.  
+Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech-community-activity-timeline-57lf)** for a summary and timeline of all my blog articles, tutorials, public speaking and upcoming events I will be presenting at.  
 
 I am a Cloud Solutions & DevOps Architect mainly working with Microsoft technologies in the Azure cloud platform and also utilizing automation and source control tools such as Git, Azure Devops and GitHub.  
 I also specialize in infrastructure as code (specifically Terraform) and love writing modules which I publish on the public [Terraform Registry](https://registry.terraform.io/).  
