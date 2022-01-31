@@ -34,3 +34,5 @@ Feel free to contribute to any of my project repositories by submitting a pull r
 Thanks for visiting.  
 
 ![Pwd9000-ml GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-yellow.png)](https://www.buymeacoffee.com/pwd9000)
