@@ -14,6 +14,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
 
+### Bio
+
 Welcome to my github page, hopefully you will find something useful here.  
 I am a Microsoft DevOps MVP, Cloud Solutions & DevOps Architect and technical speaker focussed on Microsoft technologies in the Azure cloud platform and specialize particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
 
@@ -41,6 +43,11 @@ Thanks for visiting.
 
 <a href="https://www.buymeacoffee.com/pwd9000" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-![microsoft-certified-security-compliance-and-identity-fundamentals](https://user-images.githubusercontent.com/44137582/161389662-96d049c8-d66a-45f2-93f2-cf5973c948b8.png)
+### Certs and Awards
+
+![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389718-87207f99-a95c-4a57-855f-f594577a3791.png)
+
+![microsoft-certified-security-compliance-and-identity-fundamentals (1)](https://user-images.githubusercontent.com/44137582/161389730-3543f034-6737-40a3-8bf6-0ba8876d91ce.png)
+
 
 
