@@ -43,8 +43,6 @@ Thanks for visiting.
 
 <a href="https://www.buymeacoffee.com/pwd9000" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-### Certifications and Awards
-
-[Link to my Credly page](https://www.credly.com/users/marcel-lupo/badges)
+### Certifications and Awards: [Link to my Credly page](https://www.credly.com/users/marcel-lupo/badges)
 
 ![hashicorp-certified-terraform-associate](https://user-images.githubusercontent.com/44137582/161390085-b8cf3410-4f8c-4763-a764-e5c4c0e3a23d.png) ![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389893-def07215-9f14-4e91-a026-0e3508b05235.jpg) ![microsoft-certified-azure-solutions-architect-expert 1](https://user-images.githubusercontent.com/44137582/161390188-410ae0c9-d30c-46c5-8b11-ac8621c4300c.png) ![microsoft-certified-devops-engineer-expert](https://user-images.githubusercontent.com/44137582/161390189-4c03109f-475e-4cc3-80be-cae2f34b5209.png) ![microsoft-certified-azure-network-engineer-associate](https://user-images.githubusercontent.com/44137582/161390185-d21c8969-5315-449f-b133-87f08dcda379.png) ![microsoft-certified-azure-security-engineer-associate](https://user-images.githubusercontent.com/44137582/161390186-d285bace-8bf8-4a2b-838a-3b9e3cb7e932.png) ![microsoft-certified-azure-administrator-associate-legacy 1](https://user-images.githubusercontent.com/44137582/161390190-dd2f54c1-b55c-414a-9efb-006335c3c217.png) ![sec](https://user-images.githubusercontent.com/44137582/161390218-b1588c90-a904-49a0-a0fb-10c3485b8d7a.png) ![comptia-network-certification 2](https://user-images.githubusercontent.com/44137582/161390110-82c7f761-b772-40c6-9435-28db73e4bd36.png) ![comptia-security-certification 2](https://user-images.githubusercontent.com/44137582/161390111-f36af7b5-97bf-4b19-bfcd-cfbd9df1ba22.png)
