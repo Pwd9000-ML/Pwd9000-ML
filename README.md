@@ -41,6 +41,4 @@ Thanks for visiting.
 
 <a href="https://www.buymeacoffee.com/pwd9000" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-![MVP_Badge_Avatar_Secondary_DarkBlue7694_RGB](https://user-images.githubusercontent.com/44137582/161389457-5210a475-c0e9-40e1-aefa-43fc182e6dcf.png) ![microsoft-certified-security-compliance-and-identity-fundamentals](https://user-images.githubusercontent.com/44137582/161389538-bd9aa280-00cd-48b8-b146-6a42ce80cd40.png)
-
-
+![MVP_Badge_Avatar_Secondary_DarkBlue7694_RGB](https://user-images.githubusercontent.com/44137582/161389457-5210a475-c0e9-40e1-aefa-43fc182e6dcf.png) ![microsoft-certified-security-compliance-and-identity-fundamentals (1)](https://user-images.githubusercontent.com/44137582/161389581-96d5ebdb-266b-4b97-9915-d1d58f343615.png)
