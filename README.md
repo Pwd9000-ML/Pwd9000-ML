@@ -17,7 +17,7 @@
 ### Bio
 
 Welcome to my github page, hopefully you will find something useful here.  
-I am a Microsoft DevOps MVP, Cloud Solutions & DevOps Architect and technical speaker focussed on Microsoft technologies in the Azure cloud platform and specialize particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
+I am a [Microsoft DevOps MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004771?fullName=Marcel%20L), Cloud Solutions & DevOps Architect and technical speaker focussed on Microsoft technologies in the Azure cloud platform and specialize particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
 
 I am passionate about technology and how it can be used in automation to bring value and solve complex business problems.
 
@@ -45,5 +45,5 @@ Thanks for visiting.
 
 ### Certs and Awards
 
-![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389893-def07215-9f14-4e91-a026-0e3508b05235.jpg) ![microsoft-certified-security-compliance-and-identity-fundamentals (1)](https://user-images.githubusercontent.com/44137582/161389730-3543f034-6737-40a3-8bf6-0ba8876d91ce.png) ![microsoft-certified-azure-network-engineer-associate](https://user-images.githubusercontent.com/44137582/161389903-f4e81cd9-030a-46ba-b907-294b7bd0f5fb.png)
+![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389893-def07215-9f14-4e91-a026-0e3508b05235.jpg) ![microsoft-certified-security-compliance-and-identity-fundamentals (1)](https://user-images.githubusercontent.com/44137582/161389730-3543f034-6737-40a3-8bf6-0ba8876d91ce.png) ![microsoft-certified-azure-network-engineer-associate](https://user-images.githubusercontent.com/44137582/161389903-f4e81cd9-030a-46ba-b907-294b7bd0f5fb.png) 
 
