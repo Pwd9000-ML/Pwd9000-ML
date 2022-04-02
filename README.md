@@ -41,4 +41,6 @@ Thanks for visiting.
 
 <a href="https://www.buymeacoffee.com/pwd9000" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b5ab2f44-0fc6-4f0e-84cf-8d344315ee3a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![microsoft-certified-security-compliance-and-identity-fundamentals](https://user-images.githubusercontent.com/44137582/161389662-96d049c8-d66a-45f2-93f2-cf5973c948b8.png)
+
+
