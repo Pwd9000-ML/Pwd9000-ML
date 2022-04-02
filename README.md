@@ -14,7 +14,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
 
-### Bio
+### Biography
 
 Welcome to my github page, hopefully you will find something useful here.  
 I am a [Microsoft DevOps MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004771?fullName=Marcel%20L), Cloud Solutions & DevOps Architect and technical speaker focussed on Microsoft technologies in the Azure cloud platform and specialize particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
@@ -43,13 +43,8 @@ Thanks for visiting.
 
 <a href="https://www.buymeacoffee.com/pwd9000" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-### Certs and Awards
+### Certifications and Awards
 
-![hashicorp-certified-terraform-associate](https://user-images.githubusercontent.com/44137582/161390085-b8cf3410-4f8c-4763-a764-e5c4c0e3a23d.png)
+[Link to my Credly page](https://www.credly.com/users/marcel-lupo/badges)
 
-![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389893-def07215-9f14-4e91-a026-0e3508b05235.jpg) 
-
-![microsoft-certified-security-compliance-and-identity-fundamentals (1)](https://user-images.githubusercontent.com/44137582/161389730-3543f034-6737-40a3-8bf6-0ba8876d91ce.png) ![microsoft-certified-azure-network-engineer-associate](https://user-images.githubusercontent.com/44137582/161389903-f4e81cd9-030a-46ba-b907-294b7bd0f5fb.png) 
-
-![comptia-network-certification 2](https://user-images.githubusercontent.com/44137582/161390110-82c7f761-b772-40c6-9435-28db73e4bd36.png) ![comptia-security-certification 2](https://user-images.githubusercontent.com/44137582/161390111-f36af7b5-97bf-4b19-bfcd-cfbd9df1ba22.png)
-
+![hashicorp-certified-terraform-associate](https://user-images.githubusercontent.com/44137582/161390085-b8cf3410-4f8c-4763-a764-e5c4c0e3a23d.png) ![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389893-def07215-9f14-4e91-a026-0e3508b05235.jpg) ![microsoft-certified-azure-solutions-architect-expert 1](https://user-images.githubusercontent.com/44137582/161390188-410ae0c9-d30c-46c5-8b11-ac8621c4300c.png) ![microsoft-certified-devops-engineer-expert](https://user-images.githubusercontent.com/44137582/161390189-4c03109f-475e-4cc3-80be-cae2f34b5209.png) ![microsoft-certified-azure-network-engineer-associate](https://user-images.githubusercontent.com/44137582/161390185-d21c8969-5315-449f-b133-87f08dcda379.png) ![microsoft-certified-azure-security-engineer-associate](https://user-images.githubusercontent.com/44137582/161390186-d285bace-8bf8-4a2b-838a-3b9e3cb7e932.png) ![microsoft-certified-azure-administrator-associate-legacy 1](https://user-images.githubusercontent.com/44137582/161390190-dd2f54c1-b55c-414a-9efb-006335c3c217.png) ![sec](https://user-images.githubusercontent.com/44137582/161390218-b1588c90-a904-49a0-a0fb-10c3485b8d7a.png) ![comptia-network-certification 2](https://user-images.githubusercontent.com/44137582/161390110-82c7f761-b772-40c6-9435-28db73e4bd36.png) ![comptia-security-certification 2](https://user-images.githubusercontent.com/44137582/161390111-f36af7b5-97bf-4b19-bfcd-cfbd9df1ba22.png)
