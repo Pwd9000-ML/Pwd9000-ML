@@ -45,5 +45,11 @@ Thanks for visiting.
 
 ### Certs and Awards
 
-![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389893-def07215-9f14-4e91-a026-0e3508b05235.jpg) ![microsoft-certified-security-compliance-and-identity-fundamentals (1)](https://user-images.githubusercontent.com/44137582/161389730-3543f034-6737-40a3-8bf6-0ba8876d91ce.png) ![microsoft-certified-azure-network-engineer-associate](https://user-images.githubusercontent.com/44137582/161389903-f4e81cd9-030a-46ba-b907-294b7bd0f5fb.png) 
+![hashicorp-certified-terraform-associate](https://user-images.githubusercontent.com/44137582/161390085-b8cf3410-4f8c-4763-a764-e5c4c0e3a23d.png)
+
+![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389893-def07215-9f14-4e91-a026-0e3508b05235.jpg) 
+
+![microsoft-certified-security-compliance-and-identity-fundamentals (1)](https://user-images.githubusercontent.com/44137582/161389730-3543f034-6737-40a3-8bf6-0ba8876d91ce.png) ![microsoft-certified-azure-network-engineer-associate](https://user-images.githubusercontent.com/44137582/161389903-f4e81cd9-030a-46ba-b907-294b7bd0f5fb.png) 
+
+![comptia-network-certification 2](https://user-images.githubusercontent.com/44137582/161390110-82c7f761-b772-40c6-9435-28db73e4bd36.png) ![comptia-security-certification 2](https://user-images.githubusercontent.com/44137582/161390111-f36af7b5-97bf-4b19-bfcd-cfbd9df1ba22.png)
 
