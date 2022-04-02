@@ -45,7 +45,7 @@ Thanks for visiting.
 
 ### Certs and Awards
 
-![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389718-87207f99-a95c-4a57-855f-f594577a3791.png)
+![MVP_Badge_Avatar_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/44137582/161389766-83888d55-ffc8-44fa-80a6-613cfa5f9470.png)
 
 ![microsoft-certified-security-compliance-and-identity-fundamentals (1)](https://user-images.githubusercontent.com/44137582/161389730-3543f034-6737-40a3-8bf6-0ba8876d91ce.png)
 
