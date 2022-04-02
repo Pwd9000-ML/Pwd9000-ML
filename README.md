@@ -39,6 +39,6 @@ Thanks for visiting.
 
 ![Pwd9000-ml GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
 
-<a href="https://www.buymeacoffee.com/pwd9000"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pwd9000&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.buymeacoffee.com/pwd9000" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-
+![MVP_Badge_Avatar_Secondary_DarkBlue7694_RGB](https://user-images.githubusercontent.com/44137582/161389415-6634ef1b-3dd1-4b7d-969e-59f341130e32.png)
