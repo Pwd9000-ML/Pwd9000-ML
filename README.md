@@ -15,10 +15,14 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
 
 Welcome to my github page, hopefully you will find something useful here.  
+I am a Microsoft DevOps MVP, Cloud Solutions & DevOps Architect and technical speaker focussed on Microsoft technologies in the Azure cloud platform and specialize particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
+
+I am passionate about technology and how it can be used in automation to bring value and solve complex business problems.
+
+Regular speaker at conferences and meetups, and enjoys sharing knowledge and technical content with the wider tech community. Currently works at Avanade UK&I as a Manager for DevOps Engineering.
 Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech-community-activity-timeline-57lf)** for a summary and timeline of all my blog articles, tutorials, public speaking and upcoming events I will be presenting at.  
 
-I am a Cloud Solutions & DevOps Architect mainly working with Microsoft technologies in the Azure cloud platform and also utilizing automation and source control tools such as Git, Azure Devops and GitHub.  
-I also specialize in infrastructure as code (specifically Terraform) and love writing modules which I publish on the public [Terraform Registry](https://registry.terraform.io/).  
+I specialize in infrastructure as code (specifically Terraform) and love writing modules which I publish on the public [Terraform Registry](https://registry.terraform.io/).  
 I also have a big passion for PowerShell and PowerShell development.  
 When it comes to cloud technology, I usually blog and go where my curiosity takes me covering topics on Azure, DevOps and GitHub.  
 
