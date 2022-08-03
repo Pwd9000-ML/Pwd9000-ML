@@ -1,6 +1,8 @@
 ![Main](master.gif)
 
-## Welcome 👋
+<h1 align="center">
+  Welcome to my GitHub profile! 👋
+</h1>
 
 <a target="_blank" href="https://dev.to/pwd9000">
   <img align="left" alt="Devto" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/dev-rainbow.svg" />
