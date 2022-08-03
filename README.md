@@ -18,7 +18,7 @@
 
   
   <a href="https://dev.to/pwd9000">
-    <img alt="Dev.to" title="Dev.to Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+    <img alt="Dev.to" title="Dev.to Blog" src="https://img.shields.io/badge/dev.to-Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href="https://twitter.com/pwd9000?ref_src=twsrc%5Etfw">
     <img alt="Twitter" title="Twitter" src="https://img.shields.io/twitter/follow/Pwd9000?color=lightblue&label=%40pwd9000&logo=twitter&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/marcel-l-61b0a96b">
