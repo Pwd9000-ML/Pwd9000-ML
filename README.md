@@ -1,20 +1,23 @@
-![Main](master.gif)
-
 <h1 align="center">
   Welcome to my GitHub profile! 👋
 </h1>
 
-<a target="_blank" href="https://dev.to/pwd9000">
-  <img align="left" alt="Devto" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/dev-rainbow.svg" />
-</a>
-<a href="https://www.linkedin.com/in/marcel-l-61b0a96b/">
-  <img align="left" alt="Marcel Linkedin" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/linkedin.svg" />
-</a>
-<a href="https://twitter.com/pwd9000">
-  <img align="left" alt="Marcel twitter" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/twitter5.svg" />
-</a>
+![Main](master.gif)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
+<p align="center">
+  <a target="_blank" href="https://dev.to/pwd9000">
+    <img align="left" alt="Devto" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/dev-rainbow.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcel-l-61b0a96b/">
+    <img align="left" alt="Marcel Linkedin" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/pwd9000">
+    <img align="left" alt="Marcel twitter" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/twitter5.svg" />
+  </a>
+
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
+
+</p>
 
 ## Github stats
 
