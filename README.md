@@ -2,8 +2,10 @@
 
 <h1 align="center">
   Welcome to Pwd9000-ML profile!
-  <a href="https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml">
-    <img alt="visitors" title="GitHub Profile Visits" src="https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml"/></a>
+  <p align="center">
+    <a href="https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml">
+      <img alt="visitors" title="GitHub Profile Visits" src="https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml"/></a>
+  </p>
 </h1>
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
