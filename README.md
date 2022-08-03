@@ -8,8 +8,6 @@
   </p>
 </h1>
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
-
 <p align="center">
   <a href="https://dev.to/pwd9000/my-tech-community-activity-timeline-57lf">
     <img alt="Dev.to" title="Dev.to Blog" src="https://img.shields.io/badge/-DEV.TO%20BLOG-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
