@@ -17,6 +17,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Pwd9000-ML?logo=github&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Pwd9000-ML?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pwd9000-ML?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml">
+    <img alt="visitors" title="GitHub Profile Visits" src="https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml"/></a>
 </p>
 
 ## Github stats
