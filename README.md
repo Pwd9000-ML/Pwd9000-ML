@@ -23,7 +23,7 @@
 
 ## Biography
 
-Welcome to my github page, hopefully you will find something useful here.  
+Welcome to my GitHub page, hopefully you will find something useful here.  
 I am a [Microsoft DevOps MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004771?fullName=Marcel%20Lupo), Cloud Solutions & DevOps Architect and technical speaker focused on Microsoft technologies in the Azure cloud platform and specialize particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
 I am passionate about technology and how it can be used in automation to bring value and solve complex business problems.
 
