@@ -1,6 +1,6 @@
 ![Main](master.gif)
 
-### Hi there 👋
+## Welcome 👋
 
 <a target="_blank" href="https://dev.to/pwd9000">
   <img align="left" alt="Devto" width="22px" src="https://raw.githubusercontent.com/Pwd9000-ML/Pwd9000-ML/master/dev-rainbow.svg" />
@@ -14,6 +14,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml)
 
+## Github stats
+
+![Pwd9000-ml GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
+
 ### Biography
 
 Welcome to my github page, hopefully you will find something useful here.  
@@ -24,22 +28,11 @@ I am passionate about technology and how it can be used in automation to bring v
 Regular speaker at conferences and meetups, and enjoys sharing knowledge and technical content with the wider tech community. Currently works at Avanade UK&I as a Manager for DevOps Engineering.
 Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech-community-activity-timeline-57lf)** for a summary and timeline of all my blog articles, tutorials, public speaking and upcoming events I will be presenting at.  
 
-I specialize in infrastructure as code (specifically Terraform) and love writing modules which I publish on the public [Terraform Registry](https://registry.terraform.io/).  
-I also have a big passion for PowerShell and PowerShell development.  
-When it comes to cloud technology, I usually blog and go where my curiosity takes me covering topics on Azure, DevOps and GitHub.  
+## Latest Tweets
 
-### This github space is mainly used for
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/pwd9000?ref_src=twsrc%5Etfw")
 
-- Terraform Module Development (Publishing on [Terraform Registry](https://registry.terraform.io/)).
-- Blog Posts (Publishing on [Dev](https://dev.to/pwd9000)).
-- PowerShell development and general PowerShell community fun.
-- Contributing to open source projects and issues
-- Learning and sharing knowledge
-
-Feel free to contribute to any of my project repositories by submitting a pull request.  
-Thanks for visiting.  
-
-![Pwd9000-ml GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pwd9000&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 <a href="https://www.buymeacoffee.com/pwd9000" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
