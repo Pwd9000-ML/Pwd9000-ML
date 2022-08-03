@@ -21,20 +21,18 @@
     <img alt="visitors" title="GitHub Profile Visits" src="https://visitor-badge.glitch.me/badge?page_id=pwd9000-ml.pwd9000-ml"/></a>
 </p>
 
-## Github stats
-
-![Pwd9000-ml GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
-
 ## Biography
 
 Welcome to my github page, hopefully you will find something useful here.  
-I am a [Microsoft DevOps MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004771?fullName=Marcel%20Lupo), Cloud Solutions & DevOps Architect and technical speaker focussed on Microsoft technologies in the Azure cloud platform and specialize particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
-
+I am a [Microsoft DevOps MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004771?fullName=Marcel%20Lupo), Cloud Solutions & DevOps Architect and technical speaker focused on Microsoft technologies in the Azure cloud platform and specialize particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
 I am passionate about technology and how it can be used in automation to bring value and solve complex business problems.
 
 Regular speaker at conferences and meetups, and enjoys sharing knowledge and technical content with the wider tech community. Currently works at Avanade UK&I as a Manager for DevOps Engineering.
 Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech-community-activity-timeline-57lf)** for a summary and timeline of all my blog articles, tutorials, public speaking and upcoming events I will be presenting at.  
 
+## Github stats
+
+![Pwd9000-ml GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
 ## Latest Tweets
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/pwd9000?ref_src=twsrc%5Etfw")
