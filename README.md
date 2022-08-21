@@ -37,7 +37,7 @@ Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/pwd9000?ref_src=twsrc%5Etfw")
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pwd9000&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pwd9000)](https://github.com/gazf/github-readme-twitter)
 
 ## Certifications and Awards: [Link to my Credly page](https://www.credly.com/users/marcel-lupo/badges)
 
