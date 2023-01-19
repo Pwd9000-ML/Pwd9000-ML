@@ -32,7 +32,7 @@ Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech
 
 ## Github stats
 
-![Pwd9000-ml GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
+![Pwd9000-ml GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
 ## Latest Tweets
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/pwd9000?ref_src=twsrc%5Etfw")
