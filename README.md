@@ -24,7 +24,7 @@
 ## Biography
 
 Welcome to my GitHub page, hopefully you will find something useful here.  
-I am a [Microsoft DevOps MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004771?fullName=Marcel%20Lupo), Cloud Solutions & DevOps Architect and technical speaker focused on Microsoft technologies in the Azure cloud platform and specialise particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
+I am a [Microsoft DevOps MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004771?fullName=Marcel%20Lupo), [HashiCorp Ambassador](https://www.credly.com/badges/03bdf482-06d3-4d6c-9216-197b47f5094e), Cloud Solutions & DevOps Architect and technical speaker focused on Microsoft technologies in the Azure cloud platform and specialise particularly in Automation, DevOps and Developer Technologies, with a strong focus on IaC, Azure DevOps and GitHub.
 I am passionate about technology and how it can be used in automation to bring value and solve complex business problems.
 
 Regular speaker at conferences and meetups, and enjoy sharing knowledge and technical content with the wider tech community. Currently works at Avanade UK&I as a Group Manager in DevOps Engineering.
