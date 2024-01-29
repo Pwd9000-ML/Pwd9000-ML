@@ -35,7 +35,7 @@ Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech
 
 ## Top 5 Starred Repos
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX0ZpVnQ1SmxKTWxHaWJJZnc1emJQRWNUNWxHbG5tTjBvdm5UeA==#Pwd9000-ML/Azure-Terraform-Deployments&Pwd9000-ML/docker-github-runner-linux&Pwd9000-ML/blog-devto&Pwd9000-ML/terraform-azurerm-openai-private-chatgpt&Pwd9000-ML/terraform-azurerm-sonarqube-aci&Timeline" frameBorder="0"></iframe>
+[![Star History Chart](https://api.star-history.com/svg?repos=Pwd9000-ML/Azure-Terraform-Deployments,Pwd9000-ML/docker-github-runner-linux,Pwd9000-ML/blog-devto,Pwd9000-ML/terraform-azurerm-openai-private-chatgpt,Pwd9000-ML/terraform-azurerm-sonarqube-aci&type=Timeline)](https://star-history.com/#Pwd9000-ML/Azure-Terraform-Deployments&Pwd9000-ML/docker-github-runner-linux&Pwd9000-ML/blog-devto&Pwd9000-ML/terraform-azurerm-openai-private-chatgpt&Pwd9000-ML/terraform-azurerm-sonarqube-aci&Timeline)  
 
 ## Certifications and Awards:
 [Link to my Credly page](https://www.credly.com/users/marcel-lupo/badges)
