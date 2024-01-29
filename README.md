@@ -28,14 +28,15 @@ Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech
 
 ## Github stats
 
-![Pwd9000-ml GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true)
-## Twitter
-
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/pwd9000?ref_src=twsrc%5Etfw")
+![Pwd9000-ml GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pwd9000-ML&theme=vue-dark&show_icons=true) 
 
 ## Top 5 Starred Repos
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Pwd9000-ML/Azure-Terraform-Deployments,Pwd9000-ML/docker-github-runner-linux,Pwd9000-ML/blog-devto,Pwd9000-ML/terraform-azurerm-openai-private-chatgpt,Pwd9000-ML/terraform-azurerm-sonarqube-aci&type=Timeline)](https://star-history.com/#Pwd9000-ML/Azure-Terraform-Deployments&Pwd9000-ML/docker-github-runner-linux&Pwd9000-ML/blog-devto&Pwd9000-ML/terraform-azurerm-openai-private-chatgpt&Pwd9000-ML/terraform-azurerm-sonarqube-aci&Timeline)  
+
+## Twitter
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/pwd9000?ref_src=twsrc%5Etfw")  
 
 ## Certifications and Awards:
 [Link to my Credly page](https://www.credly.com/users/marcel-lupo/badges)
