@@ -32,7 +32,9 @@ Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech
 
 ## Top 5 Starred Repos
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Pwd9000-ML/Azure-Terraform-Deployments,Pwd9000-ML/docker-github-runner-linux,Pwd9000-ML/blog-devto,Pwd9000-ML/terraform-azurerm-openai-private-chatgpt,Pwd9000-ML/terraform-azurerm-sonarqube-aci&type=Timeline)](https://star-history.com/#Pwd9000-ML/Azure-Terraform-Deployments&Pwd9000-ML/docker-github-runner-linux&Pwd9000-ML/blog-devto&Pwd9000-ML/terraform-azurerm-openai-private-chatgpt&Pwd9000-ML/terraform-azurerm-sonarqube-aci&Timeline)  
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Pwd9000-ML/Azure-Terraform-Deployments,Pwd9000-ML/docker-github-runner-linux,Pwd9000-ML/blog-devto,Pwd9000-ML/terraform-azurerm-openai-private-chatgpt,Pwd9000-ML/terraform-azurerm-sonarqube-aci,Pwd9000-ML/github-copilot-vision-demo,Pwd9000-ML/terraform-azurerm-openai-service,Pwd9000-ML/docker-github-runner-windows,Pwd9000-ML/terraform-azurerm-sonarqube-aci-internal&type=Date)](https://star-history.com/#Pwd9000-ML/Azure-Terraform-Deployments&Pwd9000-ML/docker-github-runner-linux&Pwd9000-ML/blog-devto&Pwd9000-ML/terraform-azurerm-openai-private-chatgpt&Pwd9000-ML/terraform-azurerm-sonarqube-aci&Pwd9000-ML/github-copilot-vision-demo&Pwd9000-ML/terraform-azurerm-openai-service&Pwd9000-ML/docker-github-runner-windows&Pwd9000-ML/terraform-azurerm-sonarqube-aci-internal&Date)  
 
 ## Twitter
 
