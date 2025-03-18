@@ -25,7 +25,7 @@ As a dual category [Microsoft MVP in both DevOps and Azure](https://mvp.microsof
 
 Alongside my technical pursuits, I am deeply committed to promoting the responsible and ethical use of technology and AI, emphasising fairness, transparency, and inclusivity. My goal is to foster a balance between innovation and accountability, ensuring that technological advancements benefit society as a whole.  
 
-Regular speaker at conferences and meetups, and enjoy sharing knowledge and technical content with the wider tech community. Currently work at Avanade UK&I as a Group Manager in DevOps Engineering.
+Regular speaker at conferences and meetups, and enjoy sharing knowledge and technical content with the wider tech community. As well as an Organiser of the London Microsoft DevOps Meetup/ DevOps, Data Science & GenAI Meetup User Group normally hosted at the Microsoft Reactor in London. Currently work at Avanade UK&I as a Group Manager in DevOps Engineering.  
 Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech-community-activity-timeline-57lf)** for a summary and timeline of all my blog articles, tutorials, public speaking and upcoming events I will be presenting at.  
 
 ## Github stats
