@@ -25,7 +25,7 @@ As a [Microsoft MVP in DevTech](https://mvp.microsoft.com/en-us/PublicProfile/50
 
 Alongside my technical pursuits, I am deeply committed to promoting the responsible and ethical use of technology and AI, emphasising fairness, transparency, and inclusivity. My goal is to foster a balance between innovation and accountability, ensuring that technological advancements benefit society as a whole.
 
-Regular speaker at conferences and meetups. See my [sessionize](https://sessionize.com/pwd9000) for more details on my next event. I enjoy sharing knowledge and technical content with the wider tech community. Also an organiser of the London Microsoft DevOps Meetup as well as the [DevOps and GitHub Brighton Meetup](https://www.meetup.com/devops-github-brighton/) hosted online and on occasion at the Microsoft Reactor in London. Currently work at Avanade UK&I as a Group Manager in DevOps Engineering.
+Regular speaker at conferences and meetups. See my [sessionize](https://sessionize.com/pwd9000) for more details on my next event. I enjoy sharing knowledge and technical content with the wider tech community. Also an organiser of the London Microsoft DevOps Meetup as well as the [DevOps and GitHub Brighton Meetup](https://www.meetup.com/devops-github-conf-brighton/) hosted online and on occasion at the Microsoft Reactor in London. Currently work at Avanade UK&I as a Group Manager in DevOps Engineering.
 
 Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech-community-activity-timeline-57lf)** for a summary and timeline of all my blog articles, tutorials, public speaking and upcoming events I will be presenting at.  
 
