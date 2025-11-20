@@ -17,6 +17,8 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pwd9000-ML?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+![Visits](https://komarev.com/ghpvc/?username=Pwd9000-ML&label=PROFILE+VIEWS)
+
 ## Biography
 
 Welcome to my GitHub page, hopefully you will find something useful here.  
