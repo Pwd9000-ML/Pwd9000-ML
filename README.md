@@ -19,8 +19,6 @@
 
 ## Biography
 
-![Visits](https://komarev.com/ghpvc/?username=Pwd9000-ML&label=PROFILE+VIEWS)
-
 Welcome to my GitHub page, hopefully you will find something useful here.  
 
 As a [Microsoft MVP in DevTech](https://mvp.microsoft.com/en-us/PublicProfile/5004771?fullName=Marcel%20Lupo) in DevOps, my mission is to mentor and contribute to technical communities, ensuring that my dedication to DevOps and AI services not only enhances project outcomes but also empower the broader developer ecosystem and community. I am a critical thinker with a strong advocacy for technology, continuously pursuing excellence and innovation, particularly in cloud technologies and automation. As a Cloud Solutions and DevOps Architect, I focus on delivering scalable, efficient, and cutting-edge solutions and to solve complex technical problems.
@@ -30,6 +28,8 @@ Alongside my technical pursuits, I am deeply committed to promoting the responsi
 Regular speaker at conferences and meetups. See my [sessionize](https://sessionize.com/pwd9000) for more details on my next event. I enjoy sharing knowledge and technical content with the wider tech community. Also an organiser of the London Microsoft DevOps Meetup as well as the [DevOps and GitHub Brighton Meetup](https://www.meetup.com/devops-github-conf-brighton/) hosted online and on occasion at the Microsoft Reactor in London. Currently work at Avanade UK&I as a Group Manager in DevOps Engineering.
 
 Check out my **[Tech Community Activity Timeline](https://dev.to/pwd9000/my-tech-community-activity-timeline-57lf)** for a summary and timeline of all my blog articles, tutorials, public speaking and upcoming events I will be presenting at.  
+
+![Visits](https://komarev.com/ghpvc/?username=Pwd9000-ML&label=PROFILE+VIEWS)
 
 ## Github stats
 
